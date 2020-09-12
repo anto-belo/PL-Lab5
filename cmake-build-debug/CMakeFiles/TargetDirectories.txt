@@ -1,0 +1,3 @@
+D:/User/OneDrive/Documents/PL/PL-Lab5/cmake-build-debug/CMakeFiles/PL_Lab5.dir
+D:/User/OneDrive/Documents/PL/PL-Lab5/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/User/OneDrive/Documents/PL/PL-Lab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
